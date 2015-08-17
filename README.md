@@ -1,3 +1,4 @@
+#Automata Creator
 Tool for creating and testing automata.
 You can use the editing modes to create, connect, and manipulate the nodes and their connections.
 Once the machine is created, you can set the input and calculate the result.
